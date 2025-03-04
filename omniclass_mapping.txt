@@ -1,0 +1,18 @@
+IfcWall: Structural Walls
+IfcWindow: Windows
+IfcDoor: Doors
+IfcSlab: Floor Slabs
+IfcColumn: Columns
+IfcBeam: Beams
+IfcPipe: Pipes
+IfcCovering: Coverings 
+IfcStair: Stairs
+IfcRailing: Railings
+IfcRamp: Ramps
+IfcFooting: Footings
+IfcFurnishingElement: Furniture
+IfcFlowTerminal: HVAC Terminals
+IfcFlowController: Valves & Dampers
+IfcFlowFitting: Pipe & Duct Fittings
+IfcFlowSegment: Pipe & Duct Segments
+IfcFlowStorageDevice: Water Tanks

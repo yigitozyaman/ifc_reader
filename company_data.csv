@@ -1,0 +1,37 @@
+OmniClass;Company;Product;Product Code;Price;CO2_Emissions;Lead Time
+Walls;BuildTech Solutions;Reinforced Concrete Wall;A;120;400;30
+Walls;BuildTech Solutions;Brick Wall;B;80;500;25
+Windows;GlassMasters Inc.;Double Glazed Window;C;300;50;10
+Windows;GlassMasters Inc.;Triple Glazed Window;D;450;40;15
+Doors;SafeGuard Doors;Steel Security Door;E;900;120;7
+Doors;SafeGuard Doors;Wooden Interior Door;CCC;400;150;5
+Floor Slabs;Urban Slabs;Reinforced Concrete Slab;AAA;200;600;40
+Floor Slabs;Urban Slabs;Precast Concrete Slab;BBB;150;500;35
+Columns;SteelStruct Ltd.;Steel Column H-Beam;CCC;5;400;20
+Columns;SteelStruct Ltd.;Reinforced Concrete Column;AAA;7,5;350;25
+Beam;BeamTech Industries;Steel I-Beam;BBB;6;420;18
+Beam;BeamTech Industries;Precast Concrete Beam;CCC;8,5;380;22
+Pipe;PipePro Ltd.;PVC Water Pipe;AAA;25;40;3
+Pipe;PipePro Ltd.;Galvanized Steel Pipe;BBB;50;20;5
+Covering;CoverTech Co.;Vinyl Floor Covering;CCC;15;15;2
+Covering;CoverTech Co.;Ceramic Tile Covering;AAA;30;10;3
+Stairs;StepMaster Ltd.;Wooden Interior Stairs;BBB;3,8;500;15
+Stairs;StepMaster Ltd.;Glass & Steel Modern Stairs;CCC;9,5;200;30
+Ramps;SafeStep Industries;Steel Modular Ramp;AAA;3,2;180;10
+Ramps;SafeStep Industries;Heavy-Duty Industrial Ramp;BBB;5;100;14
+Footing;FoundStruct Ltd.;Concrete Footing;CCC;25;900;30
+Footing;FoundStruct Ltd.;Steel-Reinforced Footing;AAA;30;800;35
+Furniture;FurniPlus Inc.;Office Desk;BBB;250;60;10
+Furniture;FurniPlus Inc.;Ergonomic Chair;CCC;150;80;7
+HVAC Terminals;HVAC Global;Ceiling Diffuser;AAA;75;40;5
+HVAC Terminals;HVAC Global;Wall-Mounted Vent;BBB;100;30;7
+Flow Controller;FlowControl Ltd.;Industrial Valve;CCC;500;90;12
+Flow Controller;FlowControl Ltd.;Pressure Regulator;AAA;750;70;14
+Flow Fitting;FlowFit Systems;Copper Pipe Fitting;BBB;20;15;5
+Flow Fitting;FlowFit Systems;Brass Pipe Coupling;CCC;35;10;7
+Flow Segment;SegTech Solutions;PVC Drain Pipe;AAA;50;50;8
+Flow Segment;SegTech Solutions;Steel Gas Pipe;BBB;80;30;10
+Flow Storage Device;StoragePro Inc.;Water Storage Tank 1000L;CCC;1,5;400;12
+Flow Storage Device;StoragePro Inc.;Underground Water Tank;AAA;3;250;18
+Railings;Rail comp1;premium 1;AAA;2;250;12
+Railings;Rail comp2;premium 2;BBB;1,5;200;10
