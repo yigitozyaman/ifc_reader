@@ -1,2 +1,2 @@
 # ifc_reader
-This is an introduction to ERP systems for the construction industry.
+Thanks AI for spending six hours with me writing this script.
